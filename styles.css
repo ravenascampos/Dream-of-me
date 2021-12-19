@@ -548,6 +548,10 @@ details p {
 }
 
 @media (min-width: 1440px) {
+  body {
+    max-width: fit-content;
+  }
+
   #about div {
     padding: 3rem;
   }
