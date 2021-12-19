@@ -510,9 +510,10 @@ details p {
 
   #to-participate.section div.container div.details-image {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     margin-bottom: 2rem;
+    padding-left: 1rem;
   }
 
   #to-participate.section div.container div.text-image {
@@ -524,6 +525,7 @@ details p {
   #to-participate.section div.container div.text-image div.text {
     order: 2;
     padding: 2rem 2rem;
+    text-align: center;
   }
 
   #to-participate.section div.container div.button-dream {
@@ -542,5 +544,33 @@ details p {
     display: flex;
     align-items: center;
     margin-bottom: 2rem;
+  }
+}
+
+@media (min-width: 1440px) {
+  #about div {
+    padding: 3rem;
+  }
+
+  #to-participate.section div.container div.details-image {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  #to-participate.section div.container div.text-image {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+    justify-content: space-around;
+  }
+
+  #to-participate.section div.container div.text-image div.text {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    padding: 4rem;
+  }
+
+  #to-help.section div.container div.content div.text {
+    padding: 4rem;
   }
 }
