@@ -1,4 +1,6 @@
 <h1 align="center"> Dream of Me </h1>
+<div align="center" >
+<img src="https://github.com/ravenascampos/Dream-of-me/blob/main/assets/logo-navegador.png?raw=true"/></div>
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-motivações">Motivações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -38,6 +40,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <p>O projeto foi totalmente desenvolvido por mim, desde a ideia, prototipação até o código</p>
 <p>Criei a logo, pensei no nome e na apresentação, paletas de cores, imagens, tudo de forma a deixar uma aplicação visualmente agradável e que possibilite uma ótima experiência para o usuário.</p>
 <p>Também tentei seguir boas práticas de acessibilidade e responsividade</p>
-<p align="center" >
+<p>
+  <a href="https://ravenascampos.github.io/Dream-of-me/">Acesse a página do projeto </a>
+</p>
+<p>
   <a href="https://www.figma.com/file/iZTe7AqW4buOLf832zF6Rt/Dream-of-me?node-id=0%3A1">Consulte o layout do projeto no Figma</a>
 </p>
