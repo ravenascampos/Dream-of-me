@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Protótipo do Projeto
 <p>O projeto foi totalmente desenvolvido por mim, desde a ideia, prototipação até o código</p>
 <p>Criei a logo, pensei no nome e na apresentação, paletas de cores, imagens, tudo de forma a deixar uma aplicação visualmente agradável e que possibilite uma ótima experiência para o usuário.</p>
-<p>Também tentei seguir boas práticas de acessibilidade e responsividade</p>
+<p>Também tentei seguir boas práticas de acessibilidade e responsividade (mobile first)</p>
 <p>
   <a href="https://ravenascampos.github.io/Dream-of-me/">Acesse a página do projeto </a>
 </p>
