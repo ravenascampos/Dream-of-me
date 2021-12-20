@@ -17,9 +17,9 @@
 ## Motivações
 <p>Ao pensar em uma solução para o desafio, levei em consideração a minha vivência desde que iniciei a transição de carreira para a área da tecnologia.</p>
 <p>Assim como eu, muitas pessoas, principalmente àquelas pertencentes a grupos sub-representados, estão lutando para conseguir construir um futuro por meio da tecnologia.</p>
-<p>Apesar do apóio da comunidade, nem sempre trilhar esse caminho é algo fácil.</p>
+<p>Apesar do apoio da comunidade, nem sempre trilhar esse caminho é algo fácil.</p>
 <p>Há muitos fatores envolvidos: falta de equipamento, dinheiro para fazer cursos, internet.</p>
-<p>Pensando nisso, o Dream Of Me <Tech> é uma ideia que busca ajudar ligar pessoas: gente que tem dinheiro e que acredita que investir no sonho de alguém é algo incrível, à pessoas que tem muitos sonhos e pouca possibilidade de realizá-los.</p>
+<p>Pensando nisso, o Dream Of Me <Tech> é uma ideia que busca ligar pessoas: gente que tem dinheiro e que acredita que investir no sonho de alguém é algo incrível, à pessoas que tem muitos sonhos e pouca possibilidade de realizá-los.</p>
 <p>A ideia é que o Dream of Me <Tech> seja uma plataforma de ligação, quase como um tinder de oportunidades, onde as pessoas se cadastram, contam sua história e nos dizem qual a melhor maneira que podemos ajudá-la (qual curso deseja fazer, qual equipamento precisa). Essas histórias serão ouvidas por pessoas que têm condições de ajudar e querem investir no sonho de alguém.</p>
 <p>O público alvo são pessoas pertencentes a grupos sub-representados, que realmente necessitam de ajuda.</p>
 <p>Para tornar o processo o mais igualitário e transparente possível, as fotos das pessoas participantes serão avatar, dessa forma, garantiremos que a escolha será pela vivência e história de vida, e não apenas pela aparência.</p>
